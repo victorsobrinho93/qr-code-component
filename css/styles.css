@@ -49,11 +49,12 @@ img {
     color: hsl(216, 15%, 48%);
     font-weight: 400;
     width: 80%;
+    font-size: 15px;
     align-self: center;
   }
 
   @media (orientation: landscape) {
-    width: 16vw;
+    width: 20vw;
   }
   @media (orientation: portrait) {
     width: 72vw;
